@@ -26,8 +26,8 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
  
 ## Program
 ```
-DEVELOPED BY: Pranav K
-REF NO: 24900545
+DEVELOPED BY: MAGENDRA SANJAY S
+REF NO: 24900652
 ```
 ```
 
